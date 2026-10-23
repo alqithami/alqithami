@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="216" viewBox="0 0 600 216" role="img" aria-labelledby="title desc">
+<title id="title">Saad Alqithami — Multi-agent systems, reinforcement learning and trustworthy AI</title>
+<desc id="desc">A research profile header with a restrained teal network motif.</desc>
+<rect width="600" height="216" rx="16" fill="#F4F8FA"/>
+<rect x="30" y="36" width="5" height="140" rx="2.5" fill="#007E87"/>
+<g font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif">
+<text x="52" y="58" fill="#496274" font-size="12" letter-spacing="2.1" font-weight="600">RESEARCH · CODE · COLLABORATION</text>
+<text x="50" y="115" fill="#173346" font-size="45" font-weight="600" letter-spacing="-1.2">Saad Alqithami</text>
+<text x="52" y="154" fill="#496274" font-size="18">Multi-agent systems · Reinforcement learning</text><text x="52" y="182" fill="#496274" font-size="18">Trustworthy AI</text>
+</g>
+</svg>

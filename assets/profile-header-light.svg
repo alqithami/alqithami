@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">Saad Alqithami — Multi-agent systems, reinforcement learning and trustworthy AI</title>
+<desc id="desc">A research profile header with a restrained teal network motif.</desc>
+<rect width="1200" height="230" rx="16" fill="#F4F8FA"/>
+<rect x="42" y="48" width="5" height="126" rx="2.5" fill="#007E87"/>
+<g font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif">
+<text x="70" y="66" fill="#496274" font-size="13" letter-spacing="3.1" font-weight="600">RESEARCH · CODE · COLLABORATION</text>
+<text x="67" y="124" fill="#173346" font-size="48" font-weight="600" letter-spacing="-1.2">Saad Alqithami</text>
+<text x="70" y="166" fill="#496274" font-size="19">Multi-agent systems · Reinforcement learning · Trustworthy AI</text>
+</g>
+<g fill="none" stroke="#CDDDE5" stroke-width="1.5">
+<path d="M900 53 L1012 40 L1112 84 L1095 176 L972 194 L900 142 Z"/>
+<path d="M900 53 L1095 176 M1012 40 L972 194 M1112 84 L900 142 M900 53 L1006 113 L1112 84 M1095 176 L1006 113 L972 194 M900 142 L1006 113 L1012 40"/>
+</g>
+<g fill="#EAF2F6"><circle cx="1006" cy="113" r="34"/><circle cx="1112" cy="84" r="15"/></g>
+<g fill="#007E87"><circle cx="1006" cy="113" r="10"/><circle cx="900" cy="53" r="5"/><circle cx="1012" cy="40" r="6"/><circle cx="1112" cy="84" r="7"/><circle cx="1095" cy="176" r="5"/><circle cx="972" cy="194" r="6"/><circle cx="900" cy="142" r="5"/></g>
+</svg>
