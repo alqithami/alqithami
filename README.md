@@ -6,7 +6,7 @@
   <img src="assets/profile-header-light.svg" width="100%" alt="Professor Saad Alqithami — Multi-agent systems, reinforcement learning, and trustworthy AI">
 </picture>
 
-**Professor of Computer Science · Al-Baha University**
+**Professor of Computer Science**
 
 I study how intelligent agents learn, coordinate, and make accountable decisions in complex environments. My work connects multi-agent systems, reinforcement learning, and networked organizations with applications in logistics, robotics, and cyber-physical systems.
 
