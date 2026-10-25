@@ -61,7 +61,7 @@ Research frameworks and experiment pipelines, with direct links to code and publ
 <td width="50%" valign="top">
 <h3><a href="https://github.com/alqithami/vchimera">V-CHIMERA</a></h3>
 <p><strong>Cyber resilience and communication</strong></p>
-<p>With Fahad Alghamdi: a framework coupling cyber-incident response and verified communication under misinformation.</p>
+<p>A framework coupling cyber-incident response and verified communication under misinformation.</p>
 <p><a href="https://github.com/alqithami/vchimera">Code</a> · <a href="https://doi.org/10.3390/biomimetics11050324">Biomimetics · 2026</a></p>
 </td>
 </tr>
